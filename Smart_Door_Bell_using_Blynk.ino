@@ -22,9 +22,9 @@ DFRobotDFPlayerMini myDFPlayer;
 #define RX2 12
 
 
-const char* ssid = "Punto3Web";
-const char* password = "Pedroda0608-Astorga72";
-char auth[] = "nxFLN7HXMLYNK90u6y-aSYxB9JoEXx4b";
+const char* ssid = "NOMBRE_DE_TU_SSID";
+const char* password = "CONTRASEÑA_DE_SSID";
+char auth[] = "TOKEN_QUE_ENVIA_BLYNK";
 
 String my_Local_IP;
 
